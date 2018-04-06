@@ -1,1 +1,1 @@
-This is a test to learn how to use git with github.
+This is the a basic branch with basic info.
