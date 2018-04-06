@@ -1,0 +1,17 @@
+# See existing branches
+$ git branch
+
+# Switch to an existing branch
+$ git checkout your-branch
+
+# Sitch and create branch
+$ git checkout -b your-branch
+
+# Delete brach
+$ git branch -d your-branch
+
+# Add changes from a branch to another
+$ git checkout branch-to-update
+$ git merge brach-with-changes
+
+Info: https://git-scm.com/book/es/v1/Ramificaciones-en-Git-Procedimientos-b%C3%A1sicos-para-ramificar-y-fusionar
