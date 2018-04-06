@@ -15,6 +15,9 @@ $ git checkout branch-to-update
 $ git merge brach-with-changes
 $ git push branch-to-update
 
+# Download repository
+git clone https://github.com/gpibernats/repositorytest.git
+
 
 By Gerard 2018.
 Info: https://git-scm.com/book/es/v1/Ramificaciones-en-Git-Procedimientos-b%C3%A1sicos-para-ramificar-y-fusionar
