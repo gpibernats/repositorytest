@@ -13,6 +13,7 @@ $ git branch -d your-branch
 # Add changes from a branch to another
 $ git checkout branch-to-update
 $ git merge brach-with-changes
+$ git push branch-to-update
 
 
 By Gerard 2018.
