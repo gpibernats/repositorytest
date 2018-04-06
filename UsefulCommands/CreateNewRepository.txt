@@ -15,5 +15,6 @@ $ git remote -v
 $ git push -u origin master
 
 
+By Gerard 2018.
 Info: https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 

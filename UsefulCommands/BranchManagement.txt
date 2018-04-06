@@ -14,4 +14,6 @@ $ git branch -d your-branch
 $ git checkout branch-to-update
 $ git merge brach-with-changes
 
+
+By Gerard 2018.
 Info: https://git-scm.com/book/es/v1/Ramificaciones-en-Git-Procedimientos-b%C3%A1sicos-para-ramificar-y-fusionar
